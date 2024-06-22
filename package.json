@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chalk": "^0.1.0",
+    "cloudscraper": "^4.6.0",
+    "cluster": "^0.7.7",
+    "gradient-string": "^2.0.2",
+    "header-generator": "^2.1.27",
+    "http2": "^3.3.7",
+    "net": "^1.0.2",
+    "prompt-sync": "^4.2.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "randomstring": "^1.2.3",
+    "socks": "^2.7.1",
+    "tls": "^0.0.1",
+    "user-agents": "^1.0.1392"
+  }
+}
